@@ -1,7 +1,7 @@
 .stamps/
-audio/
+decoded/
+extracted/
 tools/
 tree.txt
 tree_flat.txt
 vpks/
-vsnd/
